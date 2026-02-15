@@ -1,87 +1,112 @@
-🏥 Healthcare Insurance Cost Analysis
+# 🏥 Healthcare Insurance Cost Analysis
 
-📌 Project Overview
+## 📌 Project Overview
 
-This project performs an end-to-end analysis of healthcare insurance data to understand the factors influencing medical charges. The goal is to identify key cost drivers and present insights through data visualization and an interactive Power BI dashboard.
-This project demonstrates real-world data analyst skills including SQL querying, data cleaning, exploratory data analysis (EDA), and dashboard creation.
+This project is an end-to-end data analysis of healthcare insurance data aimed at identifying key factors that influence medical charges. The analysis was performed using SQL, Python, and Power BI to derive insights and build an interactive dashboard.
 
-🎯 Objectives
+The project demonstrates practical data analyst skills such as data cleaning, exploratory data analysis (EDA), SQL querying, and dashboard creation.
 
-Analyze patient insurance data
-Identify factors affecting medical charges
-Compare smoker vs non-smoker costs
-Study the impact of BMI and age on charges
-Build an interactive dashboard for insights
+---
 
-🛠 Tools & Technologies
+## 🎯 Objectives
 
-SQL – Data querying and aggregation
-Python – Data cleaning & EDA
-Pandas
-Matplotlib
-Seaborn
-Power BI – Dashboard & visualization
-GitHub – Project documentation
+- Analyze healthcare insurance data  
+- Identify factors affecting medical costs  
+- Compare smoker vs non-smoker expenses  
+- Study the impact of BMI and age on charges  
+- Build an interactive dashboard for decision-making  
 
-📂 Dataset
+---
 
-The dataset contains:
-Age
-Gender
-BMI
-Number of children
-Smoking status
-Region
-Medical charges
+## 🛠 Tools & Technologies Used
 
-🔍 Analysis Performed
+- **SQL** – Data querying and aggregation  
+- **Python**  
+  - Pandas  
+  - Matplotlib  
+  - Seaborn  
+- **Power BI** – Dashboard and visualization  
+- **GitHub** – Project documentation  
 
-SQL Analysis
-Average charges by smoker status
-Average charges by region
-Age vs average charges
-Top 10 highest medical charges
+---
 
-Python (EDA)
+## 📂 Dataset Information
 
-Data cleaning and validation
-Scatter plots for BMI vs charges
-Boxplots for smoker vs charges
-Correlation heatmap
+The dataset includes:
 
-Power BI Dashboard
+- Age  
+- Gender  
+- BMI  
+- Number of children  
+- Smoking status  
+- Region  
+- Medical charges  
 
-KPI cards (Total Patients, Avg Charges, Max Charges)
-Charges by region
-Smoker vs non-smoker comparison
-Age vs charges trend
-BMI vs charges scatter plot
-Interactive slicers
+---
 
-📊 Key Insights
+## 🔍 Analysis Performed
 
-Smokers pay nearly 4× higher medical costs than non-smokers
-Higher BMI is linked to increased medical charges
-Age has a moderate impact on healthcare expenses
-Smoking is the strongest cost driver
-Regional differences affect average charges
+### SQL Analysis
+- Average charges by smoking status  
+- Average charges by region  
+- Age vs average charges  
+- Top 10 highest medical charges  
+- Charges by gender and number of children  
 
-📈 Dashboard Preview
-![Dashboard](Healthcare_Analysis.png)
+### Python (EDA)
+- Data cleaning and validation  
+- Duplicate removal  
+- BMI vs charges analysis  
+- Smoker vs charges comparison  
+- Correlation heatmap  
 
+### Power BI Dashboard
+- KPI cards (Total Patients, Avg Charges, Max Charges)  
+- Charges by region  
+- Smoker vs non-smoker comparison  
+- Age vs charges trend  
+- BMI vs charges scatter plot  
+- Interactive slicers for filtering  
 
-✅ Conclusion
+---
 
-This analysis shows that lifestyle factors like smoking and BMI significantly influence medical costs. The interactive dashboard allows users to explore these patterns and understand healthcare cost drivers.
+## 📊 Key Insights
 
-🚀 Project Value
+- Smokers pay nearly **4× higher medical costs** than non-smokers  
+- Higher BMI is associated with higher medical charges  
+- Age has a moderate impact on medical expenses  
+- Smoking is the **strongest driver of medical costs**  
+- Regional differences slightly affect charges  
 
-This project highlights:
-End-to-end analytics workflow
-Business insight generation
-Data visualization skills
-SQL + Python + BI tool integration
+---
 
-👤 Author
-Prince Shakya
+## 📈 Dashboard Preview
+
+(Add your dashboard screenshot here)
+
+Example:
+
+![Dashboard](Healthcare.png)
+
+---
+
+## ✅ Conclusion
+
+The analysis shows that lifestyle factors such as smoking and BMI significantly influence healthcare costs. The interactive Power BI dashboard helps explore these cost drivers and supports data-driven decision-making.
+
+---
+
+## 🚀 Project Highlights
+
+✔ End-to-end analytics workflow  
+✔ SQL + Python + Power BI integration  
+✔ Business-focused insights  
+✔ Interactive dashboard creation  
+✔ Portfolio-ready project  
+
+---
+
+## 👤 Author
+
+**Your Name**  
 Aspiring Data Analyst
